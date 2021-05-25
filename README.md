@@ -1,6 +1,6 @@
 # Crud App with Firebase✨
 
-**Aplicacion de un unico componente de practica para la implementacion de Firebase y Firestore
+*Aplicacion de un unico componente de practica para la implementacion de Firebase y Firestore*
 
 Link para probar la app: https://crud-firestore-b280a.web.app/
 
